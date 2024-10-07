@@ -2,20 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awesome!! Sauce</title>
-    <link>http://localhost:1313/</link>
+    <link>https://3rga1m.github.io/</link>
     <description>Recent content on Awesome!! Sauce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>why20020817@gmail.com (3rgA1M)</managingEditor>
     <webMaster>why20020817@gmail.com (3rgA1M)</webMaster>
     
-    <lastBuildDate>Mon, 07 Oct 2024 21:27:46 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Oct 2024 23:40:59 +0800</lastBuildDate><atom:link href="https://3rga1m.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2</title>
+      <link>https://3rga1m.github.io/posts/2/</link>
+      <pubDate>Mon, 07 Oct 2024 23:40:59 +0800</pubDate>
+      <author>why20020817@gmail.com (3rgA1M)</author>
+      <guid>https://3rga1m.github.io/posts/2/</guid>
+      <description>&lt;p&gt;test test test&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Secret game</title>
-      <link>http://localhost:1313/game/</link>
+      <link>https://3rga1m.github.io/game/</link>
       <pubDate>Mon, 07 Oct 2024 21:27:46 +0800</pubDate>
       <author>why20020817@gmail.com (3rgA1M)</author>
-      <guid>http://localhost:1313/game/</guid>
+      <guid>https://3rga1m.github.io/game/</guid>
       <description>&lt;div&gt;
     &lt;h1&gt;:)&lt;/h1&gt;
     &lt;button id=&#34;clickButton&#34;&gt;Click me&lt;/button&gt;
@@ -81,10 +91,10 @@
     
     <item>
       <title>Secrets</title>
-      <link>http://localhost:1313/secrets/</link>
+      <link>https://3rga1m.github.io/secrets/</link>
       <pubDate>Mon, 07 Oct 2024 21:27:46 +0800</pubDate>
       <author>why20020817@gmail.com (3rgA1M)</author>
-      <guid>http://localhost:1313/secrets/</guid>
+      <guid>https://3rga1m.github.io/secrets/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;
     &lt;div id=&#34;typeit-0141c3a7b783d61cd795d119eb9b4a67&#34;&gt;&lt;/div&gt;
 
@@ -117,7 +127,7 @@
 &lt;/div&gt; --&gt;
 &lt;div class=&#34;fade-in&#34; id=&#34;delayedContent&#34;&gt;
     &lt;video id=&#34;myVideo&#34; width=&#34;100%&#34; height=&#34;auto&#34; controls&gt;
-    &lt;source src=&#34;http://localhost:1313/videos/cat.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;source src=&#34;https://3rga1m.github.io/videos/cat.mp4&#34; type=&#34;video/mp4&#34;&gt;
     Your browser does not support the video tag.
     &lt;/video&gt;
 &lt;/div&gt;
@@ -130,7 +140,7 @@
 &lt;/br&gt;
 &lt;a
   class=&#34;!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700&#34;
-  href=&#34;http://localhost:1313/game&#34;
+  href=&#34;https://3rga1m.github.io/game&#34;
   target=&#34;_self&#34;
   
   role=&#34;button&#34;
@@ -152,10 +162,10 @@ window.onload = function() {
     
     <item>
       <title>yayyyyy</title>
-      <link>http://localhost:1313/posts/yayyyyyy/</link>
+      <link>https://3rga1m.github.io/posts/yayyyyyy/</link>
       <pubDate>Thu, 03 Oct 2024 22:25:59 +0800</pubDate>
       <author>why20020817@gmail.com (3rgA1M)</author>
-      <guid>http://localhost:1313/posts/yayyyyyy/</guid>
+      <guid>https://3rga1m.github.io/posts/yayyyyyy/</guid>
       <description>&lt;p&gt;blah blah blah 🙄🙄🙄&lt;/p&gt;
 &lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/track/29lXN1aoaL6HE72BOvknyr?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;152&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 &lt;br/&gt;
@@ -168,7 +178,7 @@ New article!
 
   &lt;/span&gt;
 &lt;/span&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/yayyyyyy/featured.gif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://3rga1m.github.io/posts/yayyyyyy/featured.gif" />
     </item>
     
   </channel>
