@@ -2,13 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awesome!! Sauce</title>
-    <link>https://3rga1m.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Awesome!! Sauce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>why20020817@gmail.com (3rgA1M)</managingEditor>
     <webMaster>why20020817@gmail.com (3rgA1M)</webMaster>
     
-    <lastBuildDate>Mon, 07 Oct 2024 21:27:46 +0800</lastBuildDate><atom:link href="https://3rga1m.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Oct 2024 21:27:46 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secret game</title>
+      <link>http://localhost:1313/game/</link>
+      <pubDate>Mon, 07 Oct 2024 21:27:46 +0800</pubDate>
+      <author>why20020817@gmail.com (3rgA1M)</author>
+      <guid>http://localhost:1313/game/</guid>
+      <description>&lt;div&gt;
+    &lt;h1&gt;:)&lt;/h1&gt;
+    &lt;button id=&#34;clickButton&#34;&gt;Click me&lt;/button&gt;
+    &lt;p id=&#34;count&#34;&gt; 😚😚 &lt;/p&gt;
+    &lt;div class=&#34;message&#34; id=&#34;message&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        background-color: #f0f0f0;
+    }
+    button {
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    button:hover {
+        background-color: #45a049;
+    }
+    h1 {
+        font-size: 24px;
+    }
+    .message {
+        margin-top: 20px;
+        font-size: 20px;
+        color: #333;
+    }
+&lt;/style&gt;
+&lt;script&gt;
+    document.addEventListener(&#34;DOMContentLoaded&#34;, function() {
+        let count = 0;
+        document.getElementById(&#34;clickButton&#34;).onclick = function() {
+            count++;
+            document.getElementById(&#34;count&#34;).innerText =  count ;
+            if (count === 10) {
+                document.getElementById(&#34;message&#34;).innerText = &#34;Awesome!!!&#34;;
+            }
+            if (count === 20) {
+                document.getElementById(&#34;message&#34;).innerText = &#34;Niceeeeee&#34;;
+            }
+            if (count === 30) {
+                document.getElementById(&#34;message&#34;).innerText = &#34;There&#39;s no more&#34;;
+            }
+            if (count === 90) {
+                document.getElementById(&#34;message&#34;).innerText = &#34;Aight fine&#34;;
+            }
+            if (count === 100) {
+                document.getElementById(&#34;message&#34;).innerText = &#34;🥹🫶&#34;;
+            }
+        };
+    });
+&lt;/script&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Secrets</title>
+      <link>http://localhost:1313/secrets/</link>
+      <pubDate>Mon, 07 Oct 2024 21:27:46 +0800</pubDate>
+      <author>why20020817@gmail.com (3rgA1M)</author>
+      <guid>http://localhost:1313/secrets/</guid>
+      <description>&lt;div style=&#34;text-align: center;&#34;&gt;
+    &lt;div id=&#34;typeit-0141c3a7b783d61cd795d119eb9b4a67&#34;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
+      new TypeIt(&#34;#typeit-0141c3a7b783d61cd795d119eb9b4a67&#34;, {
+        strings: [&#34;&#34;,&#34;    This is where magic happens.&#34;,&#34;    &#34;],
+        speed:  100 ,
+        lifeLike:  false ,
+        startDelay:  0 ,
+        breakLines:  true ,
+        waitUntilVisible:  true ,
+        loop:  false 
+      }).go();
+    });
+&lt;/script&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.fade-in {
+    opacity: 0;
+    transition: opacity 1s ease-in;
+}
+
+.fade-in.visible {
+    opacity: 1;
+}
+&lt;/style&gt;
+&lt;!-- &lt;div class=&#34;fade-in&#34; id=&#34;delayedContent&#34;&gt;
+    &lt;iframe width=&#34;720&#34; height=&#34;460&#34; src=&#34;https://www.youtube.com/embed/B8VR5mQcgjI?si=eLBWccg7AdtjqxQ-?autoplay=1&#34; title=&#34;MAGIC&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;  web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt; --&gt;
+&lt;div class=&#34;fade-in&#34; id=&#34;delayedContent&#34;&gt;
+    &lt;video id=&#34;myVideo&#34; width=&#34;100%&#34; height=&#34;auto&#34; controls&gt;
+    &lt;source src=&#34;http://localhost:1313/videos/cat.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    Your browser does not support the video tag.
+    &lt;/video&gt;
+&lt;/div&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;a
+  class=&#34;!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700&#34;
+  href=&#34;http://localhost:1313/game&#34;
+  target=&#34;_self&#34;
+  
+  role=&#34;button&#34;
+&gt;
+  
+Press this later
+
+&lt;/a&gt;
+
+&lt;script&gt;
+window.onload = function() {
+    setTimeout(function() {
+        document.getElementById(&#39;delayedContent&#39;).classList.add(&#39;visible&#39;);
+    }, 4000); // 2000毫秒延迟
+};
+&lt;/script&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>yayyyyy</title>
+      <link>http://localhost:1313/posts/yayyyyyy/</link>
+      <pubDate>Thu, 03 Oct 2024 22:25:59 +0800</pubDate>
+      <author>why20020817@gmail.com (3rgA1M)</author>
+      <guid>http://localhost:1313/posts/yayyyyyy/</guid>
+      <description>&lt;p&gt;blah blah blah 🙄🙄🙄&lt;/p&gt;
+&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/track/29lXN1aoaL6HE72BOvknyr?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;152&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/olAik8MhYOB9K&#34; width=&#34;440&#34; height=&#34;320&#34; style=&#34;&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;
+&lt;br/&gt;
+&lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    
+New article!
+
+  &lt;/span&gt;
+&lt;/span&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/yayyyyyy/featured.gif" />
+    </item>
+    
   </channel>
 </rss>
